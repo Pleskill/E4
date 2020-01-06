@@ -1,0 +1,94 @@
+section h2{
+    background-color:#1d1d1d;
+    text-align: center;
+    color:#ff5902;
+    margin:auto 0px auto 0px;
+    padding:200px 20px 200px 20px;
+
+}
+
+.menu_pro ul li{
+    font-size: 100px;
+    display:block;
+    margin:100px;
+    height: 1000px;
+    width:5em;
+}
+.menu_pro ul .cv{
+    border-bottom: solid;
+    margin-bottom: 5em;
+    border-bottom-color:#ff5902;
+}
+.menu_pro ul .cv:hover{
+    color:#ff5902;
+}
+.menu_pro ul .stage:hover{
+    color:#ff5902;
+}
+.menu_pro ul{
+    margin:100px 100px auto 100px;
+    float: left;
+    height: max-content;
+    border-right:solid;
+    border-color: #ff5902;
+    padding-top: 10em;
+}
+.menu_pro{
+     background-color:#1d1d1d;
+     margin:200px auto auto auto;
+    ;
+}
+div form fieldset .offre{
+    border:none;
+    border-color:aqua;
+    margin: 100px 200px auto 0px;
+    background-color:#1d1d1d;
+    height:2500px; 
+}
+div form fieldset .offre input{
+    width: 30em;
+    height: 10em;
+    margin-left: 2em;
+    margin-top: 2em;
+    font-size: 2em;
+}
+div form fieldset .offre label{
+    font-size:2em;
+    
+}
+
+div form fieldset .int_offre{
+    margin-bottom: 10em;
+}
+div form fieldset .int_offre label{
+    font-size:2em;
+    
+}
+div form fieldset .int_offre input{
+    font-size: 2em;
+    margin-top: 1em;
+    margin-left: 2em;
+    width:30em;
+}
+div form{
+    background-color:#1d1d1d;
+    margin-left:1em;
+    margin-right:2em;
+    margin-bottom: 10em;
+}
+div .corps_cv{
+    background-color: #1d1d1d;
+    border:solid;
+   
+}
+.pdf{
+    border:none;
+    background-color:#1d1d1d;
+    height:70em;
+    margin-left:1em;
+    margin-right:2em;
+   margin-bottom: 10em;
+}
+.pdf embed{
+    margin-top: 3em;
+}

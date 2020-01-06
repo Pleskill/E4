@@ -1,0 +1,120 @@
+						BTS Informatique SIO : 
+						
+Le BTS Informatique SIO est proposé au Cours Diderot de Paris, au Cours Diderot de Lille, au Cours Diderot de Lyon, au Cours Diderot de Toulouse, au Cours Diderot de Montpellier, au Cours Diderot d'Aix en Provence, au Cours Diderot de Marseille et au Cours Diderot.
+
+La formation
+
+	Ce BTS est un diplôme BAC +2 reconnu par l’État, il apporte des compétences pluridisciplinaires dans le domaine de des compétences pluridisciplinaires dans le domaine de  professionnels à la maintenance informatique, à trouver des solutions techniques d’infrastructures, et à développer des applications logicielles.
+
+	Cette formation permet de travailler soit en indépendant soit en tant que salarié dans plusieurs types d’organisations : entreprises de services numériques, PME/PMI, Société de Services d’Ingénierie Informatique (SSII), services publiques, autres…
+
+Niveau requis
+
+	La formation BTS SIO est accessible à l’issue de bacs généraux, technologiques et professionnels ainsi que pour ceux qui reviennent à un cursus scolaire après une interruption dans les études.
+
+		Baccalauréat STMG
+		Baccalauréat STI2D, spécialité Systèmes d’Information et Numérique (SIN)
+		Baccalauréat Scientifique
+		Bac Pro électrotechnique, énergie, équipements communicants
+		Bac pro gestion-administration
+		Bac pro Systèmes Électroniques Numériques (SEN)
+		Baccalauréat Économique et Sociale (Spécialité Mathématiques)
+		Baccalauréat Littéraire option Mathématique et connaissances en informatique
+
+Contenu du programme 
+
+	Le programme des BTS SIO de première année est constitué de plusieurs cours informatiques, mais aussi de matières générales :
+	
+	<img src='images/Programme_BTS_SIO_1.jpg'>
+	
+	
+Voici le programme de deuxième année, :
+
+	<img src='Programme_BTS_SIO_2.jpg'>
+
+Stages
+
+	Pendant la formation, deux stages sont effectués par les étudiants :
+	Le stage de première année dure 4 semaines et est effectué en mai et juin (fin d’année).
+	Le stage de deuxième année a une durée de 6 semaines en janvier et février.
+
+Examen
+
+	L’examen est constitué d’épreuves écrites mais aussi d’épreuves orales :
+	
+	<img src='Examen-768x792.jpg'>
+	
+Spécialités
+
+	SLAM (Solutions Logicielles et Applications Métiers) : forme les étudiants à suivre le cycle de vie des applications qu’ils mettent en place, analyser les besoins et rechercher les solutions.
+	
+Poursuite d'études 
+	Des formations Bac +3 et Bac +5 sont accessibles après un BTS SIO.
+	Des licences pro sont envisageables voire recommandées pour s’intégrer plus facilement dans le monde du travail.
+
+		La licence Pro CDTL : Développeur Mobile Full Stack / Développeur Mobile et IoT
+		LP Administration et Sécurité des Réseaux
+	
+	Des écoles informatiques et certaines écoles d’ingénieur restent aussi accessibles au BTS SIO. Certaines écoles préparent à un  Diplôme Européen d’Études Supérieures (DEES) en Informatique Réseaux et Sécurité
+	Avec de bonnes motivations, des masters comme le Master Manager de Projets Web et Digital sont accessibles pour se spécialiser dans un secteur.
+
+Exemples de métiers après un BTS SIO spécialité SISR :
+
+	Administrateur systèmes et réseaux
+	Informaticien support et déploiement
+	Technicien de production
+	Technicien réseaux / télécoms
+	Technicien de maintenance en informatique
+	Autres…
+	
+Les principaux métiers après un BTS SIO spécialité SLAM :
+
+	Développeur d’applications informatiques
+	Webmestre / Administrateur de site
+	Analyste d’applications
+	Analyste programmeur
+	Intégrateur web
+	Programmeur analyste
+	Programmeur d’applications
+	Autres…
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

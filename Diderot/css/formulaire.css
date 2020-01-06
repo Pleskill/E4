@@ -1,0 +1,50 @@
+.nav .li .a{
+	display:inline;
+	margin:0 auto;	
+	width:1000px
+}
+.formulaire{
+	margin:0 auto;
+	width:2000px;
+	background-color:#1d1d1d;
+	border:none;
+	padding:100px 200px 500px 200px;
+	
+}
+.formulaire form fieldset div{
+	margin:0 550px 0 550px;
+	width:200px;
+	
+	
+}
+.formulaire form{
+	margin:0 auto;
+	width:2000px;
+	background-color:#1d1d1d;
+	border:none;
+}
+.formulaire form fieldset{
+	margin:0 auto;
+	width:2000px;
+	background-color:#1d1d1d;
+	border:none;
+}
+.separateur{
+	
+	height:500px;
+	
+}
+button{
+        
+        width:150px;
+        height: 100px;
+        font-size:50px; 
+        cursor:pointer;
+        background-color:#ff5902; ;
+        font-family:arial-black;
+        border:none;
+	margin:0 550px 0 550px;
+        }
+input{
+	height:100px;
+    width:800px;
